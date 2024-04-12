@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">android_fitness_tracker</string>
+    <string name="title_activity_maps">MainActivity</string>
+    <string name="app_db_name">LocationTable</string>
+    <string-array name="sortCategories">
+        <item>Date</item>
+        <item>Distance</item>
+        <item>AVGSPEED</item>
+        <item>Duration</item>
+        <item>Score</item>
+        <item>Type</item>
+    </string-array>
+    <string-array name="workoutType">
+        <item>Other</item>
+        <item>Running</item>
+        <item>Hiking</item>
+        <item>Walking</item>
+        <item>Cycling</item>
+        <item>Swimming</item>
+        <item>Climbing</item>
+
+    </string-array>
+    <string-array name="scoreSelect">
+        <item>Other</item>
+        <item>1 - Worst :(</item>
+        <item>2 - Bad :(</item>
+        <item>3 - Normal :|</item>
+        <item>4 - Good :)</item>
+        <item>5 - Best :)</item>
+    </string-array>
+    <string-array name="weatherSelect">
+        <item>Other</item>
+        <item>Rainy</item>
+        <item>Snowy</item>
+        <item>Overcast</item>
+        <item>Cloudy</item>
+        <item>Sunny</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,7 @@
+
+.DS_Store
+/.gradle
+/.idea
+/GPX
+local.properties
+secrets.properties
